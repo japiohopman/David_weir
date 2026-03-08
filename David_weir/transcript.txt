@@ -1,0 +1,788 @@
+Starting Speech-to-Text conversion...
+Audio file size (22.8MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 52 kbps
+Audio file size: 22.78 MB, duration: 3680.8 seconds
+Splitting into 5 chunks (each ~736.2 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: documentary.mp3, file size: 22.78 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .documentary_chunks_20260308_075034/chunk_000.mp3
+Chunk 1 completed (duration: 736.2s)
+
+Transcribing chunk 2/5: .documentary_chunks_20260308_075034/chunk_001.mp3
+Chunk 2 completed (duration: 736.1s)
+
+Transcribing chunk 3/5: .documentary_chunks_20260308_075034/chunk_002.mp3
+Chunk 3 completed (duration: 736.2s)
+
+Transcribing chunk 4/5: .documentary_chunks_20260308_075034/chunk_003.mp3
+Chunk 4 completed (duration: 736.1s)
+
+Transcribing chunk 5/5: .documentary_chunks_20260308_075034/chunk_004.mp3
+Chunk 5 completed (duration: 736.0s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3680.7 seconds
+Language: dutch
+Total Chunks: 5
+Timestamped segments:
+[00:00.0 - 00:04.5]  Ons gevoel voor humor, dat was ook onze code.
+[00:05.0 - 00:08.5]  Je had fantastische momenten, maar je liep af en toe ook vast.
+[00:10.5 - 00:14.0]  Met grote sprongen zagen hoe we jou weer terug kregen, zeg maar.
+[00:21.5 - 00:23.0]  Dat was gewoon super.
+[00:30.0 - 00:34.0]  Je vertelde me dat je vader geestig was en impulsief en avontuurlijk.
+[00:34.0 - 00:35.0]  Dat herken ik wel.
+[00:35.0 - 00:39.0]  Daarom vond ik hem in de eerste instantie ook leuk natuurlijk.
+[00:39.0 - 00:41.0]  Als je jong bent en verliefd.
+[00:41.0 - 00:45.0]  Toen wonen we in Ierland even langs Shannon, bij Dirty Nelly.
+[00:47.0 - 00:48.0]  Wie komt hij daar tegen?
+[00:48.0 - 00:50.0]  Zijn allerbeste vriend uit Canada.
+[00:50.0 - 00:55.0]  Die veertig is geworden en met een heel gezelschap heeft uitgenodigd uit Canada.
+[00:55.0 - 00:57.0]  Om daar zijn verjaardag te komen vieren.
+[00:57.0 - 01:00.0]  Ze logeerden allemaal in de Shamrock Inn.
+[01:00.0 - 01:02.0]  Wij ook naar de Shamrock Inn.
+[01:04.0 - 01:08.0]  Bob, mijn vader, de piloot, is alcoholist geworden.
+[01:11.0 - 01:18.0]  Mijn moeder moest toen met haar twee zoons en een zwangere buik vluchten naar haar moeder in Zandvoort.
+[01:18.0 - 01:23.0]  En daar was ons een veel betere, mooiere, rijkere toekomst geboden.
+[01:24.0 - 01:29.0]  Dat is een wonder wat mijn moeder heeft verricht voordat ik geboren was.
+[01:29.0 - 01:31.0]  En in Zandvoort werd ik geboren.
+[01:48.0 - 01:51.0]  Ik was twee en toen verhuisde ik mijn moeder naar Limburg.
+[01:51.0 - 01:59.0]  Ik denk juist dat een moeder met drie kleintjes achter zich gaat naar Limburg.
+[02:03.0 - 02:05.0]  Dan grijp je naar elkaar toe.
+[02:06.0 - 02:09.0]  Voor mij was het een bolwerk en dat bolwerk was heel belangrijk.
+[02:09.0 - 02:12.0]  Dat bolwerk was echt mijn hoofd vast.
+[02:12.0 - 02:19.0]  En ik heb er ook alles voor gedaan om dat vol te houden.
+[02:19.0 - 02:24.0]  Je bent dan wel iemand anders dan ik, en Rob ook, en mam ook.
+[02:24.0 - 02:27.0]  Maar we waren natuurlijk ook een beetje elkaar, zeg maar.
+[02:27.0 - 02:29.0]  We zaten echt helemaal verbonden met elkaar.
+[02:31.0 - 02:36.0]  Ik ging daar naar school en ik heb daar het Onze Vader gebed gelezen.
+[02:36.0 - 02:40.0]  En toen dacht ik ook iets raars bij mijn eigen vader.
+[02:40.0 - 02:47.0]  Die ook een mysterieus iemand is die ik niet ken, die ergens woont in de wereld.
+[02:47.0 - 02:52.0]  Dus dat gaf het nog vooral die lading in plaats van wat het natuurlijk eigenlijk is.
+[02:54.0 - 03:00.0]  Star Wars, een film waarin de hoofdpersoon zijn vader tegenkomt en een gigantische confrontatie aangaat.
+[03:00.0 - 03:04.0]  En een gigantisch effect voor mij om daarnaar te kijken.
+[03:05.0 - 03:10.0]  Mam ging trouwen met Dick Scheffer, eigenaar van de Europa Camping in Valkenburg.
+[03:10.0 - 03:12.0]  Zij kregen een dochtertje, mijn zusje Janneke.
+[03:12.0 - 03:17.0]  En om daar op de camping te wonen was voor mij een groot avontuur.
+[03:19.0 - 03:22.0]  Nou ja, Dick was natuurlijk een klassieke stiefvader.
+[03:22.0 - 03:41.0]  Ik moet gewoon eerlijk zeggen dat ik echt oorlog met hem heb gevoerd over wie de macht had, over de familie.
+[03:41.0 - 03:47.0]  We waren op de camping natuurlijk altijd de jongens van de camping.
+[03:47.0 - 03:51.0]  Dus er waren campingdiscos waar we achter de meiden aan gingen.
+[03:51.0 - 03:56.0]  En dan de volgende dag weer met zijn afspraken bij het zwembad.
+[03:56.0 - 04:02.0]  En langs gingen bij de tent en op zoek gingen naar een avontuur.
+[04:02.0 - 04:08.0]  Ik geloof niet dat Rob er zo'n moeite mee had dat jij goed met Dick om opschiette.
+[04:08.0 - 04:12.0]  Maar hij had er wel een probleem mee, dat hij zich niet meer thuis voelde in zijn eigen huis.
+[04:12.0 - 04:17.0]  Ik weet wel dat ik een behoorlijk bazig jochie was tegenover m'n broers.
+[04:17.0 - 04:19.0]  Ik was het oudste broer natuurlijk.
+[04:22.0 - 04:35.0]  Als je als oudste kind met een alleenstaande ouder bent, dan heb je een soort status aparte.
+[04:36.0 - 04:43.0]  En Rob was natuurlijk ook een hele slimme en geestige jongen waar je heel veel volk aan kon nemen.
+[04:47.0 - 04:54.0]  Ik heb nooit het idee gehad dat een vader voor jou echt een element was in jouw leven dat ontbrak.
+[04:54.0 - 05:00.0]  Omdat ik ten eerste het idee had dat jouw moeder ook een hele sterke vrouw was.
+[05:00.0 - 05:05.0]  En dat nam het al geheel waar.
+[05:05.0 - 05:07.0]  Daarnaast had je ook broers.
+[05:07.0 - 05:09.0]  Dat was voor mij zo nieuw.
+[05:09.0 - 05:15.0]  Ik ken natuurlijk wel mensen met broers, maar hier zat ik er zo dichtbij.
+[05:15.0 - 05:19.0]  Ik zag jou en dan had je Mike en Rob.
+[05:19.0 - 05:24.0]  Je zag ook dat Rob ook wel autoriteit had tegenover Mike.
+[05:25.0 - 05:30.0]  Robbert stond nu bepunt om te verdwijnen uit mijn dagelijkse leven, want hij ging studeren.
+[05:31.0 - 05:33.0]  Ik voelde me echt bekocht.
+[05:33.0 - 05:41.0]  Dat ik nu dan, nu ik 18 was en mijn eindexamen had gedaan, dat ik dan uit huis uit moest en zelf iets ging doen.
+[05:41.0 - 05:44.0]  Want dat zag ik niet als mijn opdracht in het leven.
+[05:44.0 - 05:59.0]  Mijn opdracht in het leven was om ons bolwerk, wat voor mij iedereen met kracht voelde en mij zeker, de anderen waarschijnlijk minder dan ik toen dacht, om dat in stand te houden.
+[05:59.0 - 06:01.0]  Nu moest ik als eerste eruit losbreken.
+[06:01.0 - 06:04.0]  Ik voelde me echt bekocht.
+[06:05.0 - 06:09.0]  Het huwelijk van mijn moeder en Dick was hevig op de klippen gelopen.
+[06:09.0 - 06:17.0]  Wij gingen naar Zandvoort verhuizen, zodat wij bij onze familie aan mijn moeders kant woonden en mijn moeder ook wat meer rust kon krijgen.
+[06:17.0 - 06:21.0]  Ik kon een nieuw sociaal leven gaan proberen op te bouwen.
+[06:23.0 - 06:26.0]  We konden natuurlijk in de les binnen en we gingen met z'n allen zitten.
+[06:26.0 - 06:28.0]  Dat was de eerste les.
+[06:28.0 - 06:31.0]  Dus iedereen gaat dan naast iemand zitten die hij kent.
+[06:31.0 - 06:37.0]  We gaan zitten en we kijken zo rond en we zien op een gegeven moment twee nieuwe gezichten in de klas.
+[06:37.0 - 06:40.0]  Dat waren Dave en Marvin.
+[06:40.0 - 06:48.0]  Dave was wel een zoekende, maar wat ik ook zag is dat hij in die zoektocht ook heel veel successen kende.
+[06:48.0 - 06:53.0]  Dave is wel iemand die heel makkelijk vrienden maakt.
+[06:53.0 - 06:58.0]  Misschien niet de diefste vriendschappen, maar hij maakt heel makkelijk contact.
+[06:58.0 - 07:03.0]  Dat vond ik altijd heel erg bijzonder aan hem.
+[07:03.0 - 07:12.0]  Dat iemand die komt vanuit Limburg en dan hier komt en helemaal niemand kent en voor mijn gevoel in een hele korte tijd heel veel mensen kent.
+[07:12.0 - 07:15.0]  Dat vond ik wel heel erg bijzonder om te zien.
+[07:15.0 - 07:19.0]  Het strand, je werkt met een hele kleine groep mensen samen.
+[07:19.0 - 07:21.0]  Dat doe je dag in dag uit.
+[07:21.0 - 07:31.0]  Dat betekent dat als het een mooi zomer is, dat je er om zes uur opstaat en je werkt door tot één uur s'nachts.
+[07:31.0 - 07:37.0]  Dan ga je met z'n allen nog even wat drinken en dan ga je nog even slapen.
+[07:37.0 - 07:42.0]  Daardoor is het een hele intense manier om met elkaar op te trekken.
+[07:42.0 - 07:45.0]  Wat soms heel erg leuk is en soms ook minder leuk.
+[07:45.0 - 07:50.0]  Zeker als de zomer lang is, dan lopen de spanningen soms ook wel op.
+[07:50.0 - 07:55.0]  Wat voor mij duidelijk werd toen Dave wegging uit het strand wordt.
+[07:55.0 - 08:01.0]  Wat ik nooit eerder had gezien, tot op het moment dat het gebeurde, is dat Dave hier niet vond wat hij zocht.
+[08:01.0 - 08:08.0]  Misschien had ik het kunnen zien, maar ik zag het niet tot op het moment dat Dave naar Nijmegen ging.
+[08:26.0 - 08:30.0]  We hebben een projectje samen gedaan, een filmpje gemaakt over liften.
+[08:30.0 - 08:37.0]  Toen zijn we gaan liften en toen was hij samen met zijn stiefvader in de auto en reed hij erachteraan met de andere camera.
+[08:37.0 - 08:41.0]  Het was echt super gaaf allemaal. Het was echt een leuke tijd.
+[08:41.0 - 08:50.0]  Dave Weer, David Weer, David Weer en ik zijn elkaar tegengekomen voor het eerst in De Fuik.
+[08:50.0 - 08:52.0]  Een bruine kroeg in Nijmegen.
+[08:52.0 - 08:56.0]  Dave werkte daar al een paar jaar en had daarvoor al heel veel gedaan in de horeca.
+[08:56.0 - 09:00.0]  Op een gegeven moment bestelde er iemand roze.
+[09:00.0 - 09:06.0]  Ik pakte de rode en witte wijnfles waarbij Dave naar mij toe kwam en vroeg waar ik mee bezig was.
+[09:06.0 - 09:09.0]  Ik zei nee, rustig, maar hij vraagt roze.
+[09:09.0 - 09:11.0]  Ik pakte Davids fles, gewoon een fles roze, hier.
+[09:11.0 - 09:14.0]  Wow, dat is kei handig, dat is dan van tevoren gemaakt of zo.
+[09:14.0 - 09:22.0]  Toen ik wegging zei hij wel, je bent geen horeca persoon, maar je hebt je uiteindelijk staan kunnen houden op de zaterdagavond.
+[09:22.0 - 09:29.0]  Ik weet wel dat ik daar echt een compliment van hem vond, dat ik dacht, dat heb ik dan toch verdiend.
+[09:29.0 - 09:32.0]  We waren hier in de tent achter mij, 15 jaar geleden.
+[09:32.0 - 09:34.0]  We zijn wel oud Dave.
+[09:34.0 - 09:37.0]  En ik stondje daar en dan wou je jammen.
+[09:37.0 - 09:40.0]  Zoals Nijmegen voor mij was, dat had ik nooit eerder meegemaakt.
+[09:40.0 - 09:44.0]  Het bruisende sociale leven, studeren, het werken achter de bar.
+[09:44.0 - 09:50.0]  En mijn broer Robert was in de havenstad Kiel in Noord-Duitsland gaan wonen om te gaan zeilen.
+[09:50.0 - 09:55.0]  Een vriend van me die voer op een tweemaster op de Oostzijn.
+[09:55.0 - 10:01.0]  En die vroeg me, heb je zin om mee te varen, een matroos, op een tweemaster.
+[10:01.0 - 10:04.0]  Maar ja, dat geld maakte me niet uit, dat had ik nog nooit iets uitgemaakt.
+[10:04.0 - 10:09.0]  En ik had er wel zin in. Het kwam precies gelegen, weg en iets heel anders.
+[10:09.0 - 10:14.0]  Want ik had mezelf eigenlijk zo'n beetje onmogelijk gemaakt overal.
+[10:17.0 - 10:19.0]  Nou, beter om ver weg te gaan.
+[10:19.0 - 10:22.0]  En juist toen overleed mijn oma.
+[10:22.0 - 10:26.0]  En toen had ik een vriendin, een vriendin van mijn vader.
+[10:26.0 - 10:28.0]  Beter om ver weg te gaan.
+[10:28.0 - 10:34.0]  En juist toen overleed mijn oma, die ook een steun was.
+[10:34.0 - 10:42.0]  En toen was ik geschokt dat je weg bent en dat er iets gebeurt waar je dan niet bij bent.
+[10:42.0 - 10:55.0]  En toen heb ik op een gegeven moment het plan opgevat om dan toch maar andere dingen ook te gaan afsluiten.
+[10:55.0 - 11:00.0]  En toen heb ik het plan opgevat om naar Canada te reizen.
+[11:00.0 - 11:06.0]  En mijn vader met mijn aanwezigheid te confronteren.
+[11:06.0 - 11:09.0]  En heb hem ook niet ingelicht van tevoren.
+[11:09.0 - 11:12.0]  Ik was in Vancouver, hij woonde in Vancouver Island.
+[11:12.0 - 11:15.0]  En vanuit Vancouver heb ik op een gegeven moment gebeld.
+[11:15.0 - 11:19.0]  Ik kom morgen met de veerboot en dan sta ik daar in de haven.
+[11:19.0 - 11:22.0]  Toen zijn ze gekomen en hebben we hem opgehaald.
+[11:22.0 - 11:27.0]  En dat is een ding wat ik echt voor mezelf heb gedaan.
+[11:30.0 - 11:36.0]  Scheidt aan wat iedereen anders ervan vindt of wat voor gevolgen er voor iedereen ontstaan.
+[11:36.0 - 11:41.0]  Daar heb ik niet over nagedacht, daar had ik ook maling aan.
+[11:41.0 - 11:46.0]  Maar er waren natuurlijk wel wat gevolgen voor iedereen.
+[11:47.0 - 11:57.0]  Robert kwam thuis en had mij helemaal overdonderd met het feit dat het contact tussen ons en onze vader was hersteld.
+[11:57.0 - 12:01.0]  En iedere foto en ieder verhaal wat hij me vertelde hing ik aan zijn lippen.
+[12:01.0 - 12:05.0]  In navolging hiervan wist ik ook zeker dat ik zelf zou gaan.
+[12:08.0 - 12:11.0]  Toen we het derde jaar in gingen mocht je een vak kiezen.
+[12:11.0 - 12:15.0]  Of mocht je kiezen kon je een Erasmus opleiding doen.
+[12:15.0 - 12:16.0]  En dat kon je ook.
+[12:16.2 - 12:20.2]  Of naar Barcelona of, zoals wij dan, naar Finland gingen.
+[12:20.2 - 12:23.2]  En toen had ik gelijk, even verder moeten we ook doen, weet je wel.
+[12:23.2 - 12:26.2]  En zo heb ik Dave leren kennen, dat we met z'n allen klaar stonden.
+[12:26.2 - 12:33.2]  Zes gasten klaar om in een busje te stappen en een hele lange trip te maken naar Finland.
+[12:33.2 - 12:36.2]  Ja, dat was gewoon een supermooie periode, was dat.
+[12:46.2 - 13:04.2]  De volgende stap waar hij mee bezig was, was nu nog dit doen en straks ga ik echt serieus iets helemaal voor mezelf doen.
+[13:04.2 - 13:06.2]  Dat is mijn vader opzoeken in Canada.
+[13:06.2 - 13:19.2]  Dave had een soort prachtige, overmoedige energie, wat hem ook uiteindelijk heeft besloten.
+[13:19.2 - 13:26.2]  Ik ga naar Canada en ik ga mijn vader ontmoeten.
+[13:26.2 - 13:31.2]  Weet je al, op naar een nieuw avontuur, op naar iets nieuws.
+[13:31.2 - 13:42.2]  Niet wetend hoe heftig en hoe levensveranderend dat avontuur wel niet werd.
+[13:44.2 - 13:49.2]  Ik stond op Schiphol met een IPB ticket, dus indien plaats beschikbaar.
+[13:49.2 - 13:55.2]  De spanning was natuurlijk tot het laatste moment te snijden.
+[13:55.2 - 14:02.2]  Tot mijn grote vreugde stapte de Air Canada stewardess op me af en zei dat ik mee mocht.
+[14:02.2 - 14:10.2]  Er viel zo'n ongelooflijke spanning van mijn schouders, maar tegelijkertijd kwam daar een hele andere spanning voor in de plaats.
+[14:10.2 - 14:12.2]  Het ging echt gebeuren.
+[14:13.2 - 14:20.2]  Mijn vader had via een brief ervoor gezorgd dat ik met zijn ex-collega kon meevliegen.
+[14:20.2 - 14:29.2]  En Mr. Gosselin kon mij de hele reis van Amsterdam naar Vancouver Island vertellen wat hij allemaal met mijn vader had meegemaakt.
+[14:29.2 - 14:35.2]  Dus de kennismaking, ook al was ik nog niet fysiek bij mijn vader, was echt al begonnen.
+[14:36.2 - 14:48.2]  Ik mocht in de cockpit zitten bij het opstijgen vanaf Schiphol, de landing in Toronto, van Toronto naar Vancouver en Vancouver naar Victoria.
+[14:50.2 - 14:55.2]  De slaperige roes van die lange vlucht viel ineens weg toen ik wist dat het moment ging komen.
+[14:55.2 - 14:57.2]  Ik ging mijn vader zien.
+[14:57.2 - 15:09.2]  Ik herkende zijn vrolijkheid en ook zijn totale verwarring waar ik zelf ook in zat.
+[15:09.2 - 15:12.2]  Het was een ongelooflijk moment.
+[15:12.2 - 15:19.2]  En samen zijn we in de limousine achterin, al champagne drinkend, naar huis gereden.
+[15:20.2 - 15:24.2]  De kroeg voor de Air Force en Navy veteranen.
+[15:24.2 - 15:31.2]  Daar konden we samen biertje gaan drinken en we hadden tot dat moment nog niet zoveel persoonlijke gesprekken gehad.
+[15:31.2 - 15:37.2]  Dus dit was wel echt de eerste mogelijkheid om echt kennis te maken op een persoonlijkere manier.
+[15:37.2 - 15:40.2]  En dat hebben we allebei vol overgave gedaan.
+[15:40.2 - 15:42.2]  We hebben elkaar echt beter leren kennen.
+[15:42.2 - 15:46.2]  Mijn vader heeft allerlei verhalen verteld over zijn verleden bij de luchtmacht.
+[15:46.2 - 15:50.2]  Hij heeft me meegenomen in zijn sociale leven en zijn plezier.
+[15:50.2 - 15:54.2]  Het was helemaal wat het moest zijn voor mij, dat bezoek.
+[15:54.2 - 15:59.2]  En later zei hij ook tegen me, we gaan een keer met z'n tweeën vliegen.
+[16:00.2 - 16:06.2]  Een hele dag lang heeft hij mij geleerd wat ik moet leren om een vliegtuig te kunnen besturen.
+[16:06.2 - 16:12.2]  En ik heb daarna ook wel bij mezelf gedacht, weet je, dit is zo goed dat we dit zijn gaan doen.
+[16:12.2 - 16:19.2]  Misschien verdient mijn vader het ook wel gewoon dat ik hem vergeef dat hij er al die tijd niet is geweest.
+[16:19.2 - 16:24.2]  Mijn vader en ik, ja, wij zouden in de toekomst vaker met elkaar gaan vliegen.
+[16:24.2 - 16:31.2]  Echt een relatie opbouwen, iets wat ik nooit voor mogelijk had gehouden, was letterlijk aan het gebeuren.
+[16:31.2 - 16:35.2]  Ja, mijn vaders enthousiasme was nog wat heviger.
+[16:35.2 - 16:38.2]  Want mijn vader die zei, we gaan over een paar dagen nog een keer vliegen.
+[16:38.2 - 16:42.2]  Ik ga samen met jou en de camera de watervliegtuigjes filmen.
+[16:42.2 - 16:47.2]  Omdat ik had gezegd, het leek me zo gaaf om dat dan te filmen vanuit het vliegtuig.
+[16:47.2 - 16:51.2]  Die pendeldienst van Seattle naar Victoria.
+[16:57.2 - 16:59.2]  Toen zijn we opgestegen.
+[17:01.2 - 17:03.2]  Vroeg in de ochtend.
+[17:04.2 - 17:06.2]  Toen zijn we opgestegen.
+[17:06.2 - 17:08.2]  Vroeg in de ochtend.
+[17:33.2 - 17:36.2]  Vroeg in de ochtend.
+[18:03.2 - 18:16.2]  We werden naar Canada geroepen, we moesten onmiddellijk komen, want je was kritiek gevonden, lag je in het ziekenhuis.
+[18:16.2 - 18:22.2]  Ze hadden blijkbaar niet veel hoop dat je het erg lang zou maken, dus we moesten meteen komen.
+[18:22.2 - 18:31.2]  Dat was een helse vlucht natuurlijk, we zaten daar jankend, of tenminste ik zat daar jankend in het vliegtuin.
+[18:31.2 - 18:37.2]  We wisten niet, want je had een massive brain injury, we wisten niet of je nog zou leven als we aankwamen.
+[18:37.2 - 18:47.2]  En stel dat je wel nog leeft, hoe je er dan, weet je, het vooruitzicht was gewoon vreselijk eigenlijk.
+[18:47.2 - 18:58.2]  We hebben vijftien uur over die reis gedaan en ik heb vijftien uur lang gedacht dat we je misschien niet meer levend zouden aantreffen.
+[18:59.2 - 19:03.2]  En toen leefde je wel. En dat was de eerste opsteker.
+[19:03.2 - 19:06.2]  Maar ik stoortte gewoon ineen toen ik je zag.
+[19:06.2 - 19:16.2]  Je had inderdaad zo'n soort brace over je hoofd heen en je had zo'n enorme ventilator achter je hoofd staan die je hersenen koelde.
+[19:16.2 - 19:21.2]  En je had zo'n drukmetertje in je hoofd en allemaal apparaten om je heen.
+[19:21.2 - 19:27.2]  In de Fuik in Nijmegen was het nieuws ook bekend geworden en de barman was het aanspreekpunt.
+[19:27.2 - 19:32.2]  En die vertelde, heb je het gehoord van Dave?
+[19:32.2 - 19:43.2]  En die vertelde toen het onwerkelijke verhaal van dat je neer was gestort met een vliegtuig.
+[19:43.2 - 19:47.2]  Met jou erin en dat je vader was overleden en jij niet.
+[19:47.2 - 19:52.2]  En dat je kritiek lag in een ziekenhuis in Canada.
+[19:52.2 - 19:55.2]  Het was toen nog kritiek. We wisten niet of het af zou lopen.
+[19:55.2 - 19:59.2]  Frenk was in de sportschool. Ik kom daar binnen en hij zegt hey Arend, heb je het gehoord van Dave?
+[19:59.2 - 20:05.2]  Ik zeg nee, ik spreek Dave bijna niet meer. Wat dan? Hij heeft een ongeluk gehad.
+[20:05.2 - 20:11.2]  Ja, plotseling krijg je dat nieuws. Dave ligt in het ziekenhuis in Canada, is neergestort met een vliegtuig.
+[20:11.2 - 20:13.2]  Het is gewoon bizar.
+[20:13.2 - 20:22.2]  Toen werd ik gebeld door Carola, jouw vriendin. En die vertelde dit bizarre bericht.
+[20:23.2 - 20:28.2]  De reis van mijn moeder, mijn broer Michael en Carola was onvoorbereid.
+[20:28.2 - 20:33.2]  En toen heb ik het erover gehad met Sandy Fulton, de maatschappelijk werkster.
+[20:33.2 - 20:37.2]  En die zei ik kan hier in het ziekenhuis kijken.
+[20:37.2 - 20:42.2]  En toen kwam ze met haar kennis Kate, Kate Ferris.
+[20:42.2 - 20:46.2]  Die was verpleegster op de eerste hulp.
+[20:47.2 - 20:55.2]  En die had een huisje of een schuur waarvan ze de bovenverdieping verhuurde.
+[20:55.2 - 21:00.2]  Ja, we hebben toen niet zo heel veel met ze gepraat eigenlijk.
+[21:00.2 - 21:08.2]  Pas na een dag of wat drong het geloof ik tot ze door dat wij de familie waren van die jongen die in de krant had gestaan.
+[21:08.2 - 21:11.2]  Met dat vliegtuig ongeluk en zo.
+[21:11.2 - 21:14.2]  Ja, ze hebben zich heel bescheiden opgesteld.
+[21:14.2 - 21:17.2]  Ze zijn nooit bij ons binnen geweest.
+[21:17.2 - 21:21.2]  Als ze iets wilden meedelen dan lag er een briefje op de trap.
+[21:41.2 - 21:44.2]  Het is niet normaal om met de onderzoekers te praten.
+[21:44.2 - 21:50.2]  Normaal vind je het vliegtuig in een gebied waar het een of twee grote stukken zou zijn.
+[21:50.2 - 21:53.2]  En in deze situatie was het helemaal afgesloten.
+[21:53.2 - 21:57.2]  Het vliegtuig werd door de bomen gesneden bij Dooley Road zaterdagmorgen.
+[21:57.2 - 21:59.2]  Het had twee passagiers.
+[21:59.2 - 22:02.2]  66-jarige Robert Weir, de piloot.
+[22:02.2 - 22:04.2]  En zijn 25-jarige zoon David Weir.
+[22:04.2 - 22:07.2]  Geen maandagbeeld ging uit.
+[22:07.2 - 22:10.2]  We zijn geïnteresseerd in de reden voor de afval.
+[22:10.2 - 22:14.2]  Dit is een moeilijker ding om te bepalen.
+[22:14.2 - 22:17.2]  Er zijn geen onbordrecorders van elke soort op het vliegtuig.
+[22:17.2 - 22:20.2]  Geen vliegrecorders of geluidsrecorders.
+[22:20.2 - 22:25.2]  Dus we hebben alleen opname van externe communicaties tussen de piloot en de verkeersbeheerder.
+[22:25.2 - 22:27.2]  De piloot is gestorven op de scene.
+[22:27.2 - 22:30.2]  Maar de onderzoekers zijn geïnteresseerd in het praten met zijn zoon,
+[22:30.2 - 22:32.2]  die de afval overleefd heeft.
+[22:32.2 - 22:34.2]  Hij is nog steeds in het Victoria General Hospital.
+[22:34.2 - 22:36.2]  Hij is aan het herkennen van hoofdgebreken.
+[22:37.2 - 22:41.2]  En elke dag ging het beter met je.
+[22:41.2 - 22:44.2]  Op een gegeven moment, met een dag of drie, vier,
+[22:44.2 - 22:48.2]  trad er een soort stabiliteit in.
+[22:48.2 - 22:52.2]  En je werd nog wel in coma gehouden,
+[22:52.2 - 22:56.2]  omdat je had de druk in je hersens.
+[22:56.2 - 23:01.2]  Er was wondvocht in je hersens gelopen.
+[23:01.2 - 23:03.2]  Die moest afnemen.
+[23:03.2 - 23:07.2]  Met grote sprongen zagen we hoe we jou weer terugkregen, zeg maar.
+[23:15.2 - 23:17.2]  Dat was gewoon super.
+[23:19.2 - 23:24.2]  Alles wat er gebeurde na dat nieuws was positief.
+[23:24.2 - 23:27.2]  En zo denk ik er nog steeds over.
+[23:27.2 - 23:29.2]  En ik weet dat...
+[23:29.2 - 23:31.2]  Het is mijn punt één.
+[23:31.2 - 23:35.2]  Het is me voorgetekend door dokter Mieks.
+[23:35.2 - 23:41.2]  Wat er met je gebeurd was.
+[23:41.2 - 23:43.2]  Afgezien van je arm.
+[23:43.2 - 23:46.2]  Wat er met je hoofd gebeurd was.
+[23:46.2 - 23:51.2]  En dat heeft hij me niet zo heel rooskleurig allemaal afgeschilderd.
+[23:51.2 - 23:55.2]  Dus ik wist niet eens of je...
+[23:55.2 - 24:01.2]  Ik wist niet eens of je in coma zou blijven.
+[24:01.2 - 24:04.2]  Of dat je nog zou kunnen praten.
+[24:04.2 - 24:07.2]  Of dat je je zou kunnen bewegen.
+[24:07.2 - 24:10.2]  Zolang je in coma was, wist ik dat ook niet.
+[24:10.2 - 24:14.2]  Een internist op de intensive care.
+[24:14.2 - 24:20.2]  En die meneer kon perfect uitleggen wat er met jou aan de hand was.
+[24:21.2 - 24:25.2]  En tegelijkertijd kon hij het ook helemaal niet uitleggen.
+[24:25.2 - 24:28.2]  Want hij zei, ik weet niet hoe hij eruit komt.
+[24:28.2 - 24:32.2]  Hij kon zeggen dat het hersenbeschadiging was.
+[24:32.3 - 24:40.8]  Ik denk dat ik persoonlijkheidsverandering zou hebben, dat je niet meer dezelfde was als je het hieruit zou ontwaken.
+[24:40.8 - 24:49.3]  En het gekke is, voor mij was het niet zo dat ik dacht, nou, wat daar ligt dat is hem niet ofzo, weet je wel.
+[24:49.3 - 25:01.3]  Het is pas goed, als het David weer is ofzo, dan lag daar iemand zwaargewond en dat was mijn David.
+[25:01.8 - 25:12.8]  En alles wat er elke dag bij kwam, wat weer terugkwam zeg maar, dat was meegenomen.
+[25:12.8 - 25:22.8]  En daarom is het voor mij nooit zo geweest, en nu nog niet, dat ik dacht, maar dat en dat is een weg.
+[25:23.8 - 25:24.8]  Integendeel.
+[25:24.8 - 25:29.8]  Wat echt een heel bijzonder moment was, dat kan mam zich ook nog zeer goed herinneren denk ik,
+[25:29.8 - 25:36.8]  alhoewel ik het daarna nooit meer over gehad heb met haar, is dat je opeens een of ander liedje begon te zingen in het Engels.
+[25:36.8 - 25:45.8]  Dus je praatte eigenlijk helemaal niet zo goed nog, Nederlands, en je hoorde verkeerd om en geen verband of iets dergelijks.
+[25:45.8 - 25:50.8]  En op een gegeven moment zong je een liedje wat ik niet kende, of in ieder geval niet herkende.
+[25:50.8 - 25:59.8]  Hartstikke mooi, best wel zuiver, en gewoon vijf completten achter elkaar ofzo, vijf zinnen achter elkaar.
+[26:00.8 - 26:03.8]  Nou jongen, we vielen van de stoel af toen je dat deed.
+[26:03.8 - 26:12.8]  Toen dacht ik echt van, wauw, dat was echt weer zo'n moment dat je dacht, dit gaat echt wel heel goed.
+[26:12.8 - 26:19.8]  Toen vroegen ze aan ons, kunnen jullie niet wachtjes gaan lopen, en naast hem op de kamer een stretcher neer.
+[26:19.8 - 26:27.8]  En dan was ik ook aan het stoeien met je, dat jij wilde dan in die stretcher liggen, en dan moest ik in het ziekenhuisbed gaan liggen, dat soort dingen weet je wel.
+[26:28.8 - 26:33.8]  Ja, ik ben dus ook een keer wakker geworden, tot er een verpleger binnenkwam.
+[26:33.8 - 26:36.8]  Waar is hij? En dat ik in het ziekenhuisbed lag.
+[26:36.8 - 26:46.8]  Hahaha, you have a job here. It's your job to watch your brother.
+[26:46.8 - 26:50.8]  Ik zo, oeh, wat? Haha.
+[26:51.8 - 26:54.8]  Het ging zo fantastisch goed, elke dag zo verschrikkelijk veel beter.
+[26:54.8 - 27:00.8]  Het is net of je een kind van nul in die drie weken tien jaar oud ziet worden ofzo.
+[27:00.8 - 27:07.8]  Ja, grappig genoeg, ik heb nu een kind van twee en een kind van vier, zeg maar, daar deed ik me een beetje aan denken, zeg maar, als ik daar aan terugdenk.
+[27:08.8 - 27:13.8]  Dave, wat ben je aan het doen? Niks! Dat ding eraf aan het wikkelen.
+[27:13.8 - 27:18.8]  En toen werd ik ook razend, dat ik dacht, niet weer, godverdomme.
+[27:18.8 - 27:25.8]  Toen ben ik, heb ik zo de wc open gedrukt of iets, toen stonden we daar, al vechtend, vechtend maar,
+[27:26.8 - 27:36.8]  ik probeerde jou dan te controleren in een hokje van een bij een, terwijl jij dat band weer af aan het draaien was.
+[27:38.8 - 27:42.8]  Nou ja, je was erbij, maar je had erbij moeten zijn, laat ik het maar zo zeggen.
+[27:44.8 - 27:50.8]  Het was echt absurd voor woorden hoe dat tafereel zich afspeelde daar.
+[27:51.8 - 27:59.8]  Dokter Mierk zei ja, hij is geraakt in zijn geheugen, daar gaat hij last mee krijgen, dat is wel zeker.
+[27:59.8 - 28:10.8]  En hij is geraakt in het gedeelte van zijn hersenen waar de emoties geregeld worden, en dat gaat hij ook merken.
+[28:10.8 - 28:19.8]  Hij zal gauw geëmotioneerd zijn en gauw vrolijk en ook gauw ontdaan.
+[28:19.8 - 28:25.8]  En dat is ook zo, zo is het ook gegaan, dat heb je ook gemerkt, dat hebben wij ook gemerkt.
+[28:28.8 - 28:32.8]  Carola had zich voorgenomen om een dagboek bij te houden.
+[28:32.8 - 28:36.8]  Je zal je niets herinneren van deze dagen, dat is ook goed.
+[28:36.8 - 28:42.8]  Maar ik wil je via dit schrift toch de mogelijkheid bieden om er naar terug te kijken, mocht je dat ooit willen.
+[28:43.8 - 28:53.8]  Ja, ik zie ook nog voor me dat je, dat ik je terugbreng naar je bed, s'nachts.
+[28:53.8 - 29:00.8]  En jij had hiervoor, had je die brain injury, je had hem echt aan de voorkant zeg maar.
+[29:01.8 - 29:06.8]  En ik kom met jou in jouw kamer binnen en ik begeleid jou zo naar je bed.
+[29:06.8 - 29:13.8]  Je stapt eerst op die stretcher waar ik op sliep, toen stapte je op je eigen bed, dan was je al bijna een meter hoog.
+[29:13.8 - 29:27.8]  Toen stapte je over het bed heen en de andere kant uit, met je hoofd zo tegen het raam van de kamer, van het raam waar je naar buiten kijkt.
+[29:27.8 - 29:30.8]  Vol op die plek waar je je hersenbeschadiging had.
+[29:32.8 - 29:34.8]  Dat soort dingen maakten we mee.
+[29:35.8 - 29:41.8]  Ik weet nog goed uit het eerste telefoongesprek, wat we hadden, praatte ik eerst met mijn moeder.
+[29:41.8 - 29:50.8]  Die zei, nou we zijn nu hier in het ziekenhuis, het is, zijn levenstoestand is gestabiliseerd, hij is buiten levensgevaar.
+[29:50.8 - 29:54.8]  Ja, ik moet je even voorbereiden, zei ze, op hoe hij is.
+[29:57.8 - 30:07.8]  Het is gewoon nog Dave, maar het is net alsof hij, zoals hij praten met de mensen omgaat, lijkt het net alsof hij een beetje dronken is.
+[30:08.8 - 30:11.8]  Nou, dan geef ik je nu maar aan Dave.
+[30:12.8 - 30:14.8]  Nou, dan geef ik je nu maar aan Dave.
+[30:15.8 - 30:18.8]  En toen kreeg ik Dave aan de telefoon.
+[30:19.8 - 30:27.8]  Het was natuurlijk heel zenuwachtig en ik wist er gewoon niks van wat er te verwachten was.
+[30:28.8 - 30:33.8]  Toen kreeg ik Dave aan de telefoon en die zei, hé homo, hoe is het?
+[30:33.8 - 30:43.8]  Hoe is het? Alles goed, ik ben hier een beetje, even in Canada, ik lig hier in een bed en ik heb een soort rare schep aan mijn hand.
+[30:44.8 - 30:50.8]  En ja, mama is hier, Mike is hier, het is heel gezellig.
+[30:51.8 - 31:01.8]  En ik moest zo lachen, ik moest zo erg lachen, ook van de zenuwen en zo.
+[31:02.8 - 31:09.8]  En toen hebben we eigenlijk een heel leuk gesprek gevoerd, want ik werd gelijk een beetje aangestoken door het dronkenmansgevoel.
+[31:10.8 - 31:13.8]  We hebben een soort kroeggesprek gevoerd met Dave.
+[31:14.8 - 31:16.8]  En dat was niet zo lang.
+[31:17.8 - 31:23.8]  Toen heb ik weer eventjes met mam gepraat en ze vertelde een beetje hoe het daar was en dat ze in een ziekenhuisje zaten.
+[31:24.8 - 31:31.8]  En dat ze daar eerst, dat ze bij minder mensen ondergebracht waren en dat ze van plan waren daar een tijdje te blijven.
+[31:32.8 - 31:38.8]  En dat het een beetje onzeker was hoe het zou lopen, of die gelijk mee terug zou kunnen komen naar Nederland.
+[31:39.8 - 31:40.8]  Dat was niet duidelijk.
+[31:40.8 - 31:47.8]  Omdat je natuurlijk, je had iets aan je hoofd en de luchtvaartmaatschappij, zeker in Amerika, die kunnen nog weleens moeilijk doen.
+[31:48.8 - 31:57.8]  Over claims van medepassagiers, als iemand zich begint te roeren ofzo aan boord.
+[31:58.8 - 32:01.8]  Dus dat zagen ze als een probleem.
+[32:02.8 - 32:08.8]  En verklaringen van de arts, dat was daarom ook een beetje problematisch.
+[32:08.8 - 32:17.8]  Uiteindelijk hebben ze dat wel, met veel moeite, een overtuiging van de mensen geregeld.
+[32:18.8 - 32:25.8]  En het ging dan zo dat er een zuster mee ging met kalmerende middelen, die ze zou toedienen in zo'n geval.
+[32:26.8 - 32:31.8]  En daarmee was de luchtvaartmaatschappij dan ook akkoord gegaan. Dat was belangrijk.
+[32:32.8 - 32:34.8]  Toen was Dave hier in Amsterdam.
+[32:34.8 - 32:41.8]  Ja, op een gegeven moment kwam het gezelschap binnenlopen. Mike, Carola, je moeder en jij.
+[32:42.8 - 32:49.8]  Witte kleren staan erbij, je haar was heel kort en je arm zat in een verband of gips.
+[32:50.8 - 32:55.8]  Ja, je lachte en je was vrolijk en je kwam echt zo.
+[32:56.8 - 33:00.8]  Het is interessant hier allemaal wat hier allemaal aan de hand is.
+[33:00.8 - 33:09.8]  Ja, toen begon het grote herstelverhaal van jou in Nederland, het langdurige herstelverhaal in Nederland.
+[33:10.8 - 33:17.8]  Pas toen ik je zag in Amsterdam, toen maakte het echt indruk.
+[33:18.8 - 33:20.8]  Gewoon een blik in je ogen, je was helemaal anders.
+[33:21.8 - 33:25.8]  En toen begon je te praten en ik was er met Victor.
+[33:26.8 - 33:30.8]  Je was sociaal echt zo bot.
+[33:32.8 - 33:36.8]  Ik geloof dat je niet tegen mij zei, maar tegen Victor.
+[33:37.8 - 33:43.8]  Waarmee ik dus naar Amsterdam ging.
+[33:44.8 - 33:49.8]  Dat je vroeg of hij wiet had meegenomen.
+[33:49.8 - 33:56.8]  Dat je vroeg of hij wiet had meegenomen en dat hij zei nee, die heb ik niet meegenomen.
+[33:57.8 - 33:59.8]  En dat hij toen op kon rotten.
+[34:00.8 - 34:07.8]  Je bracht weinig nuance aan. Je zag nog niet echt het nut van het aanbrengen van nuance in wat je zei.
+[34:08.8 - 34:12.8]  Dus als iets goed was, dan was het ook gewoon goed. En als het slecht was, dan was het echt kut.
+[34:13.8 - 34:16.8]  Hij was altijd liedjes aan het zingen, constant liedjes aan het zingen.
+[34:17.8 - 34:23.8]  Ik weet nog dat het heel mooi was. Dat je heel mooi zuivere blueslijntjes aan het zingen was.
+[34:24.8 - 34:28.8]  Dat dacht ik wel, dat is wel mooi. Maar er waren allemaal mensen en die waren dan heel bezorgd.
+[34:29.8 - 34:33.8]  Je bent dan heel erg opgelucht, want je was uit de kritieke situatie.
+[34:34.8 - 34:38.8]  Maar daar was je helemaal niet mee bezig. Ik vond wel dat er mensen waren.
+[34:39.8 - 34:43.8]  Voor de rest was je eigenlijk gewoon of bezig met een liedje aan het zingen waar je veel meer energie in stak.
+[34:43.8 - 34:47.8]  Of gewoon met je eigen mijmeringen. Je was allemaal aan het praten.
+[34:48.8 - 34:52.8]  Ik vind dit, of ik vind dat. Je was een beetje aan het orreren.
+[34:53.8 - 34:58.8]  Ja, leuk. En je herkende het wel. O ja, waar was dat? O ja, daar was het.
+[34:59.8 - 35:04.8]  Maar je was daar helemaal niet mee bezig. Je was gewoon duidelijk bezig met wat de fuck is mij gebeurd.
+[35:05.8 - 35:10.8]  Ik lig hier nu. Ik was met mijn pa. Ik heb een ongeluk gehad.
+[35:10.8 - 35:15.8]  Ik was bijna overleden. Ik heb hersenbeschadiging opgelopen.
+[35:16.8 - 35:23.8]  Je had helemaal geen aandacht om het überhaupt maar leuk te vinden, die foto's van de finaliteiten.
+[35:24.8 - 35:32.8]  Je was zwaar getraumatiseerd in het donkere. Je was echt aan het zoeken naar wat er aan de hand is. Wat is er gebeurd?
+[35:33.8 - 35:37.8]  Hij is ook een keertje ontsnapt uit het ziekenhuis.
+[35:37.8 - 35:43.8]  Hij is zichzelf aangekleed en is naar buiten gelopen langs de nachtzuster.
+[35:44.8 - 35:52.8]  Op zo'n natuurlijke, nonchalante manier daggezegd.
+[35:53.8 - 35:58.8]  Die zuster is helemaal niet op het idee gekomen dat het een patiënt was die daar naar buiten liep.
+[35:59.8 - 36:02.8]  Die in quarantaine lag en zwaar gewond was. Maar dat maakt niet uit.
+[36:02.8 - 36:05.8]  Het maakt niet uit. Het is een aplon waarmee hij langs de zuster gelopen heeft.
+[36:06.8 - 36:10.8]  Hij heeft alles overheerst. Die zuster heeft hem nog gegroeid.
+[36:11.8 - 36:13.8]  Toen is hij gelijk naar de kroeg gegaan.
+[36:14.8 - 36:20.8]  Dichtstbijzijnde bij het AMC heeft hij een biertje besteld zonder geld op zak.
+[36:21.8 - 36:28.8]  Dat hij zei tegen de barman. Kijk eens even goed naar me. Denk je dat ik ga betalen?
+[36:29.8 - 36:34.8]  Volgens de arts was het niet de bedoeling dat ik al het ziekenhuis uit zou gaan na twee weken.
+[36:35.8 - 36:41.8]  Maar via een ergotherapeut heb ik met een paar tests kunnen laten zien dat ik misschien wel in staat was om weer thuis te wonen.
+[36:42.8 - 36:47.8]  Dit betekende dat ik een weekend naar huis zou gaan, boodschappen zou doen, zou gaan koken voor mijn moeder Carola.
+[36:48.5 - 36:55.5]  En daaruit zou blijken of ik in staat ben om weer zelfstandig te wonen en een dagbehandeling te volgen.
+[36:55.5 - 37:01.5]  Ik had er wel vertrouwen in. Ik vond het mild. Mild letsel. Milde gevolgen van het letsel eigenlijk.
+[37:01.5 - 37:06.5]  En je was daar goed mee op de rit te helpen. Met adviezen en in de gesprekken.
+[37:06.5 - 37:09.5]  Daar kon je mee uit de voeten. Daar deed je wel wat mee.
+[37:09.5 - 37:14.5]  Maar ik had tegelijkertijd ook nog wel zoiets van nou, je beseft het nog niet helemaal.
+[37:14.5 - 37:20.5]  Dat komt misschien nog. En dat bleek ook wel gaandeweg om ons wel meer door te dringen.
+[37:20.5 - 37:28.5]  Je hebt op een gegeven moment ook een aantal groepsbijeenkomsten gedaan.
+[37:28.5 - 37:32.5]  Geleid door een collega van mij. En daar zat je dus eigenlijk met lotgenoten.
+[37:32.5 - 37:38.5]  Mensen met hersenletsel. Niet per se als gevolg van een ongeval. Dat had ook een behoorte zijn.
+[37:38.5 - 37:40.5]  Maar daar herkende jij dingen in.
+[37:41.5 - 37:50.5]  En na het ongeluk zag ik wel een of andere Dave. Alsof er iets sereens over je heen kwam.
+[37:50.5 - 37:53.5]  Sereen? Sereen. Dan moet je dat woord maar even opzoeken.
+[37:53.5 - 37:58.5]  Ja. Ja. Iets heel intents, maar iets moois. Iets.
+[37:58.5 - 38:04.5]  Je had wel ergens nog de sociale capaciteiten. Die liet je al zien.
+[38:04.5 - 38:11.5]  Een social talk had je nog in je zeg maar. Alleen het paste helemaal niet.
+[38:11.5 - 38:16.5]  Alles kostte je veel moeite. Je wilde een heleboel, maar je merkte volgens mij aan jezelf dat het allemaal niet lukte.
+[38:16.5 - 38:22.5]  En als ik met jou praatte dan ging het al vrij snel naar iets heel intens, heftigs.
+[38:22.5 - 38:25.5]  Waar ik zelf vaak niet de behoefte aan had.
+[38:26.5 - 38:35.5]  Je bent altijd iemand geweest die het heel erg leuk vindt om over creatieve dingen te praten.
+[38:35.5 - 38:41.5]  Gewoon de fascinatie van hoe kun je een bepaald soort idee nou goed uitwerken.
+[38:41.5 - 38:46.5]  Of waar komt het vandaan. Maar dit ging dan nog wat dieper ofzo.
+[38:46.5 - 38:48.5]  Je beroep vond mij al vijf jaar.
+[38:49.5 - 38:54.5]  Je moest toch die dienblaadjes dragen en met flessen. Dat kostte je ook moeite.
+[38:54.5 - 38:57.5]  Voor mij viel het jou heel erg tegen. Je wilde alles aanpakken.
+[38:57.5 - 39:01.5]  Je was super gemotiveerd om alles te doen. Misschien wel overgemotiveerd.
+[39:01.5 - 39:06.5]  Kennis. Daar hebben we veel aan gedaan. Wat is hersenletsel? Hoe werken je hersenen nou eigenlijk?
+[39:06.5 - 39:08.5]  En wat gaat er nou stuk?
+[39:08.5 - 39:10.5]  En dat was heel erg belangrijk.
+[39:10.5 - 39:12.5]  Het was heel erg belangrijk.
+[39:12.5 - 39:14.5]  Kennis. Daar hebben we veel aan gedaan.
+[39:14.5 - 39:17.5]  Wat is hersenletsel? Hoe werken je hersenen nou eigenlijk?
+[39:17.5 - 39:19.5]  En wat gaat er nou stuk?
+[39:19.5 - 39:23.5]  En hoe relateert dat dan aan de dingen die jij merkt in je dagelijks leven?
+[39:23.5 - 39:28.5]  Ik herinner me bijvoorbeeld dat jij wel gevoelig was voor prikkels. Misschien nog.
+[39:28.5 - 39:32.5]  En dat past natuurlijk niet in een studentenleven als je achter een bar werkt.
+[39:32.5 - 39:36.5]  Ongelooflijk als ik er nu aan terugdenk dat je toen weer achter die bar bent gaan werken.
+[39:36.5 - 39:38.5]  Ongelooflijk.
+[39:38.5 - 39:41.5]  Dat vind ik echt wel bizar.
+[39:41.5 - 39:43.5]  Achteraf gezien denk ik...
+[39:43.5 - 39:46.5]  Was dat niet een beetje te snel Dave?
+[39:47.5 - 39:49.5]  Een feestje maakten we ervan.
+[39:49.5 - 39:51.5]  En dan was de kroeg nog bijna leeg.
+[39:51.5 - 39:54.5]  En de mensen die er waren hadden ook totaal geen zin in.
+[39:54.5 - 39:58.5]  En dan moesten we ook zelf eventjes de sfeer proberen te maken.
+[39:58.5 - 40:01.5]  En dan is Dave's dan kryptonite regen geworden.
+[40:02.5 - 40:04.5]  En dan zaten wij daar in de kroeg.
+[40:07.5 - 40:09.5]  De mensen waren vol met zichzelf.
+[40:09.5 - 40:11.5]  Eerst dachten ze natuurlijk van...
+[40:11.5 - 40:14.5]  Wat een ongepaste enthousiasme. Zo gezellig is het niet.
+[40:14.5 - 40:16.5]  En later op de avond...
+[40:16.5 - 40:18.5]  Ja, uiteindelijk wel.
+[40:18.5 - 40:20.5]  Dansen tot de tafel.
+[40:20.5 - 40:22.5]  Zwijgen, lachen.
+[40:22.5 - 40:25.5]  Dat in het diepe springen, dat deed je.
+[40:25.5 - 40:27.5]  En dat deed je voor het ongeluk al.
+[40:27.5 - 40:29.5]  Dus dat...
+[40:31.5 - 40:33.5]  Die karaktertrek is er niet veranderd bij.
+[40:33.5 - 40:35.5]  Je wou op die voet verder.
+[40:35.5 - 40:38.5]  Je wou weer zo doorgaan in die manier van werken.
+[40:38.5 - 40:40.5]  En met die energie die je hebt.
+[40:40.5 - 40:43.5]  En ik denk dat je in die periode bijna heel erg kon achterkomen...
+[40:43.5 - 40:47.5]  Dat dat door die hersenschade ook gewoon niet mogelijk was.
+[40:47.5 - 40:51.5]  Omdat je gewoon te vergetenachtig misschien daardoor was.
+[40:51.5 - 40:54.5]  Te ongeorganiseerd.
+[40:54.5 - 40:56.5]  Je vergat veel dingen.
+[40:56.5 - 40:59.5]  Dat was je kwijt daardoor.
+[40:59.5 - 41:02.5]  De FUIK organiseerde een veiling.
+[41:02.5 - 41:06.5]  Van authentieke, originele FUIK-attributen.
+[41:06.5 - 41:09.5]  En met het grote bedrag dat daarmee is binnengekomen...
+[41:09.5 - 41:11.5]  Heb ik het jaar daarop...
+[41:11.5 - 41:16.5]  Mijn collegegeld voor mijn stage bij Kindertv kunnen betalen.
+[41:16.5 - 41:19.5]  En zo heeft de FUIK er dus voor gezorgd...
+[41:19.5 - 41:23.5]  Dat ik opnieuw een kans kreeg om door te gaan met mijn passie.
+[41:23.5 - 41:28.5]  Ik heb Dave leren kennen toen hij bij Kindertv kwam werken.
+[41:29.5 - 41:31.5]  Ik werkte daar al.
+[41:31.5 - 41:34.5]  Eén dag in de week was vrijwilligerswerk.
+[41:34.5 - 41:36.5]  En Dave kwam er toen bij.
+[41:36.5 - 41:39.5]  En hij ging meerdere dagen in de week daar dingen doen.
+[41:39.5 - 41:42.5]  Ik was onder de indruk van wat hij allemaal deed.
+[41:42.5 - 41:44.5]  Want hij vertelde wel veel over.
+[41:44.5 - 41:46.5]  Ik weet dat hij best wel lang had gezeurd van...
+[41:46.5 - 41:48.5]  Moet je echt een keer kijken wat ik ben daarmee bezig.
+[41:48.5 - 41:49.5]  Dat is heel leuk.
+[41:49.5 - 41:51.5]  Kom nou toch eens een keer.
+[41:51.5 - 41:53.5]  En dat was inderdaad een echt studiootje.
+[41:53.5 - 41:54.5]  Met allemaal dingen.
+[41:54.5 - 41:56.5]  En hij kon lekker in zijn gang gaan.
+[41:56.5 - 41:57.5]  Dat was echt mooi.
+[41:57.5 - 42:02.5]  Ik kan me nog goed herinneren dat hij ook een keer een uitzending wilde maken.
+[42:02.5 - 42:05.5]  Regisseren en het idee uitwerken.
+[42:05.5 - 42:10.5]  Dat hij als een soort tovenaar de filmpjes aan elkaar ging toveren.
+[42:10.5 - 42:13.5]  Dus in de studio had hij een setting gemaakt met een paar kinderen.
+[42:13.5 - 42:15.5]  En Peter was er ook bij.
+[42:15.5 - 42:18.5]  En hij had een soort zwarte cape.
+[42:18.5 - 42:22.5]  En met die cape deed hij af en toe dan voor de camera langs.
+[42:22.5 - 42:26.5]  En dan toverde hij naar het volgende item toe.
+[42:27.5 - 42:32.5]  En ik kan me nog herinneren dat ik dacht toen hij dat vertelde dat hij dat wilde doen.
+[42:32.5 - 42:36.5]  Dat ik dacht nou ik weet niet of we dat met deze apparatuur een beetje fatsoenlijk in beeld kunnen krijgen.
+[42:36.5 - 42:41.5]  Maar uiteindelijk was het resultaat er wel naar.
+[42:41.5 - 42:43.5]  Het was wel gelukt om zo een uitzending te maken.
+[42:43.5 - 42:49.5]  Dus dat toonde ook wel een beetje zijn volharding.
+[42:49.5 - 42:52.5]  Ik denk ook wel dat hij toen ineens...
+[42:52.5 - 42:53.5]  Denk ik hoor.
+[42:54.5 - 42:57.5]  Wel ineens merkte van wacht even.
+[42:57.5 - 43:04.5]  Maar dit is een heel concreet ding.
+[43:04.5 - 43:05.5]  Concreet pad.
+[43:05.5 - 43:09.5]  Het editen van live beelden ofzo.
+[43:09.5 - 43:13.5]  Of nouja van in dit geval kindertv.
+[43:13.5 - 43:16.5]  Waar ik echt mijn werk van kan maken.
+[43:17.5 - 43:20.5]  Rogier mijn neef die had ik eens aan gevraagd.
+[43:20.5 - 43:23.5]  Of die eens met jou wilde kletsen.
+[43:23.5 - 43:26.5]  Of je daar misschien iets voor kon doen.
+[43:39.5 - 43:44.5]  Dankzij Victor ben ik bij Team12 begonnen als editor in opleiding.
+[43:44.5 - 43:46.5]  Ik ben een eigen onderneming gestart.
+[43:46.5 - 43:51.5]  En in de jaren die volgden kreeg ik steeds meer zelfvertrouwen in wat ik aan het doen was.
+[43:51.5 - 43:56.5]  Maar ik was ook super euforisch dat ik al zo ver was gekomen.
+[43:56.5 - 43:58.5]  Vanaf mijn dieptepunt.
+[43:58.5 - 44:04.5]  En in de euforie liet ik me ook verleiden om een keer te gaan parachutespringen.
+[44:04.5 - 44:08.5]  Toen je me aannodigde voor de parachutesprong op Texel.
+[44:08.5 - 44:10.5]  Toen was het echt zo.
+[44:10.5 - 44:15.5]  O ja maar ik heb trouwens geen geld. Kan ik het even van je lenen?
+[44:15.5 - 44:18.5]  Dat vond ik wel heel mooi.
+[44:18.5 - 44:20.5]  Het was gewoon weer ergens in je opgekomen.
+[44:20.5 - 44:22.5]  En dan maar gelijk doen denk ik.
+[44:22.5 - 44:25.5]  En dat hebben we ook meteen gedaan volgens mij.
+[44:25.5 - 44:30.5]  We zijn op weekend gewoon met de trein op Texel gegaan.
+[44:30.5 - 44:34.5]  Een goed feestje gehad die avond ervoor.
+[44:34.5 - 44:38.5]  En ja.
+[44:38.5 - 44:40.5]  En toen de sprong.
+[44:44.5 - 44:46.5]  Het gaat er nu door je heen.
+[44:52.5 - 44:53.5]  Klaar is. Klaar is.
+[44:53.5 - 44:55.5]  Ik ben er volgens mij weer bij.
+[44:55.5 - 44:57.5]  Het kon helemaal goed.
+[44:57.5 - 45:00.5]  En vandaag is gewoon een fantastische dag.
+[45:00.5 - 45:02.5]  Ik heb schapen gezien.
+[45:02.5 - 45:04.5]  En kijk maar.
+[45:04.5 - 45:06.5]  Alle twee.
+[45:33.5 - 45:35.5]  Komaan.
+[45:35.5 - 46:01.5]  MUZIEK
+[46:02.5 - 46:04.5]  Maar hoe euforisch ik ook was.
+[46:04.5 - 46:08.5]  Ik kon maar moeilijk vrede krijgen met het feit dat er een gat in mijn geheugen zat.
+[46:08.5 - 46:10.5]  Van ongeveer vier à vijf weken.
+[46:10.5 - 46:13.5]  Wat voor informatie in dat gat zou horen.
+[46:13.5 - 46:17.5]  Ja dat zou ik kunnen gaan ophalen.
+[46:17.5 - 46:19.5]  Ik zou naar Canada toe kunnen gaan.
+[46:19.5 - 46:21.5]  En daar zoeken naar mensen.
+[46:21.5 - 46:22.5]  Naar getuigen.
+[46:22.5 - 46:24.5]  Naar professionals.
+[46:24.5 - 46:26.5]  Naar alles wat er te vinden is.
+[46:26.5 - 46:28.5]  Om dat gapende gat te vullen.
+[46:31.5 - 46:34.5]  Je had ook plannen gemaakt om mensen te gaan interviewen.
+[46:34.5 - 46:36.5]  Van wie ik dacht.
+[46:36.5 - 46:37.5]  Ja.
+[46:37.5 - 46:40.5]  Die waren niet zo belangrijk voor je.
+[46:40.5 - 46:42.5]  Of voor ons allemaal eigenlijk.
+[46:42.5 - 46:45.5]  We hadden toen heel wat mensen ontmoet.
+[46:45.5 - 46:48.5]  En de een die heeft op mij heel wat meer indruk gemaakt dan de ander.
+[46:48.5 - 46:51.5]  De een heeft ook heel wat meer gedaan dan de ander.
+[46:51.5 - 46:53.5]  Die was veel meer betrokken dan de ander.
+[46:53.5 - 46:54.5]  Ja.
+[46:54.5 - 46:56.5]  Jij had daar geen.
+[46:56.5 - 46:57.5]  Je wist dat niet.
+[46:57.5 - 46:59.5]  Je kende die mensen niet.
+[46:59.5 - 47:02.5]  Je had er niets van onthouden.
+[47:02.5 - 47:04.5]  Ik dacht ja.
+[47:04.5 - 47:07.5]  Misschien als je het leuk vindt.
+[47:07.5 - 47:08.5]  Als je het op prijs stelt.
+[47:08.5 - 47:10.5]  Dan wil ik wel met je meegaan.
+[47:10.5 - 47:13.5]  Dan kan ik je voorstellen aan die mensen.
+[47:13.5 - 47:16.5]  Ik vind het zelf ook leuk om ze weer eens te zien.
+[47:18.5 - 47:21.5]  Dus tien jaar later gingen mijn moeder en ik naar Canada.
+[47:21.5 - 47:28.5]  Onderweg had mam alle tijd om samen met mij weer eens terug te kijken naar die periode van tien jaar geleden.
+[47:51.5 - 47:54.5]  Voor de tweede keer in mijn leven naar Canada.
+[47:54.5 - 47:58.5]  De belangrijke afspraken waren met de dokter.
+[47:58.5 - 48:01.5]  Met de politieagent die op de crash site was.
+[48:01.5 - 48:03.5]  En Ferren Brun.
+[48:03.5 - 48:06.5]  De leeftijdsgenoot die mij in zijn eigen tuin vond.
+[48:06.5 - 48:08.5]  Tussen de broekstukken.
+[48:10.5 - 48:12.5]  Ik heb er heel veel zin in.
+[48:12.5 - 48:14.5]  Ik heb er heel veel zin in.
+[48:14.5 - 48:16.5]  Ik heb er heel veel zin in.
+[48:16.5 - 48:18.5]  Ik heb er heel veel zin in.
+[48:18.5 - 48:20.5]  Ik heb er heel veel zin in.
+[48:21.5 - 48:23.5]  Jij zag er eigenlijk heel pristine uit.
+[48:23.5 - 48:25.5]  Je zag er eigenlijk als iemand...
+[48:25.5 - 48:26.5]  Je gaat dit niet leuk vinden.
+[48:26.5 - 48:29.5]  Maar je zag er eigenlijk als iemand...
+[48:29.5 - 48:31.5]  Zoals in een funeraal.
+[48:31.5 - 48:34.5]  Die je goed op je rug legde.
+[48:34.5 - 48:35.5]  Om je goed op te schoonmaken.
+[48:35.5 - 48:38.5]  Want je lag er eigenlijk heel rustig op.
+[48:38.5 - 48:41.5]  Het zag er bijna uit als een prop.
+[48:41.5 - 48:43.5]  Zoals als je dit had gedaan.
+[48:43.5 - 48:44.5]  Voor een film of zo.
+[48:44.5 - 48:46.5]  Je was heel mooi.
+[48:47.5 - 48:51.5]  Je was een paar meter vanaf het vuurwerk.
+[48:51.5 - 48:53.5]  Je lag daar.
+[48:53.5 - 48:55.5]  Toen ik naar je kwam...
+[48:55.5 - 48:58.5]  Er was ik en twee andere mensen.
+[48:58.5 - 49:00.5]  Een buurman.
+[49:00.5 - 49:02.5]  Mijn vader.
+[49:02.5 - 49:04.5]  En...
+[49:04.6 - 49:09.0]  Myself obviously. The neighbor, his name's Wayne, he was the first guy that was there.
+[49:10.7 - 49:17.2]  He said, hey, they're over there, right? And so he came over and he laid down behind you and
+[49:17.2 - 49:22.4]  what he did is he just cupped his hands on each side of your head. And so he was just doing that
+[49:22.4 - 49:27.3]  to just prevent you from moving because in another event that, you know, we have a spinal injury,
+[49:27.3 - 49:33.1]  you could, you make things much worse. So he just tried to keep you calm. My dad was on this side
+[49:33.1 - 49:39.3]  by your feet and I remember just looking at you, seeing like you weren't cut to shreds or anything
+[49:39.3 - 49:47.4]  like that. And you look pretty good actually, all considering. And you missed this great big tree.
+[49:48.5 - 49:51.9]  You were over there. You must have been flying free.
+[49:55.2 - 49:58.7]  But I don't know. I don't know. You ended up here and here you are.
+[49:59.6 - 50:06.4]  I had just come out of my house to walk my dog. So I was way up the hill and I saw the plane
+[50:06.4 - 50:12.5]  way up in the sky and the engine was roaring really, really loudly. And that's what drew my
+[50:12.5 - 50:20.0]  attention to it, to even watch it. I don't know. The throttle must have been stuck on high or
+[50:20.1 - 50:30.1]  something. But I saw it up and it came down this way and then it went back up again. And I wondered
+[50:30.1 - 50:38.2]  later if maybe you were trying to get yourself down into that field. You were going westbound.
+[50:38.2 - 50:44.3]  This was your last ditch effort to try to land the airplane before you realized, bam,
+[50:44.3 - 50:49.2]  I'm not going to make it. So you hit this like a hedgerow right here. Possibly maybe
+[50:49.2 - 50:55.0]  clip one of those at the top. I mean, I don't know what velocity you were going at, the angle.
+[50:56.0 - 51:00.7]  Yeah, I remember your hand was a mess and your nose, it looked like your nose was broken.
+[51:01.7 - 51:07.8]  Boom, like blunt heavy duty trauma forced to the face. But otherwise you look really good.
+[51:07.8 - 51:13.5]  But as soon as we started patting you down just to make sure you're all right,
+[51:13.5 - 51:18.4]  you started kind of doing this. You started going, oh no, no, no, no. And at that point you were trying
+[51:18.4 - 51:25.4]  to kind of get up a little bit. And at that point I was like, okay, we'll just let you be.
+[51:25.4 - 51:31.2]  So there really wasn't a lot to do, really. Honestly, the truth is you lucked out big time.
+[51:31.2 - 51:37.5]  It was like you played sort of like a million to one Russian roulette, unfortunate circumstances
+[51:37.5 - 51:45.3]  to be in. It was a horrible, horrible thing. But at the same time, remarkably horrible luck
+[51:45.3 - 51:52.3]  and incredible luck at the same time. It was January, so it was cold. And I remember
+[51:53.2 - 51:59.2]  just the impact, the emotional impact of seeing what had happened and to realize that there was
+[51:59.2 - 52:07.4]  somebody in that wreckage, somebody that survived. And when we first started corresponding
+[52:07.4 - 52:12.9]  and to get an email from you, we were already alluded to that as well in our correspondence,
+[52:12.9 - 52:18.2]  that when you're talking to someone or as a police officer, you go to these very horrendous
+[52:18.2 - 52:26.4]  things and you see these very painful stages in life. And as kind of a defense mechanism,
+[52:26.4 - 52:33.9]  we put up that shield and we think about it, but we try not to think about it. And you continue on.
+[52:33.9 - 52:38.6]  It's how we survive. You said that you looked at a newspaper article for the last 10 years
+[52:39.6 - 52:46.8]  and it's funny because I kept some of them as well. There's the picture of me walking away
+[52:46.8 - 52:51.8]  from the wreckage. This is a different one. It's the same picture, but it's a different...
+[52:51.8 - 52:57.0]  The Vancouver Sun. That picture made the wire is what it's called here in Canada. And that means
+[52:57.0 - 53:03.5]  that that story and that picture gets emailed across the country. And so it was national news
+[53:04.1 - 53:10.2]  for that week. So that picture showed up. I have relatives on the other side of the country
+[53:10.2 - 53:14.4]  in Halifax, Nova Scotia, and they saw that picture there.
+[53:14.4 - 53:36.4]  As things come out in the media, you start to realize, oh, I know where they got their head
+[53:36.4 - 53:40.9]  injury from now, type of thing. And yours is one of those things. I don't think we knew right away
+[53:40.9 - 53:44.5]  what happened. And then we heard, I think your mom probably told us as well too,
+[53:44.5 - 53:48.9]  but then it came out in the media that it was a plane crash. And you didn't know your dad
+[53:48.9 - 53:52.5]  very well. You'd only met him for how many days at that point?
+[53:52.5 - 53:53.2]  12 days.
+[53:53.2 - 53:54.8]  12 days. You were with him for 12 days.
+[53:55.9 - 53:59.8]  So you only knew him for 12 days basically before he passed away in the accident.
+[54:05.9 - 54:10.2]  You spent approximately six days in our tertiary level intensive care unit
+[54:10.3 - 54:18.8]  because you had suffered a combination of trauma with fractures to bones, but also a bad head
+[54:18.8 - 54:25.3]  injury. And so when you were brought to us unconscious on the 20th of January, our first
+[54:25.3 - 54:30.3]  two days or so, or three days, we were not sure if you were actually going to survive. And that was
+[54:30.9 - 54:35.9]  a challenge for us because of course we then had to notify people a long distance away
+[54:35.9 - 54:43.2]  since you had come to Canada and basically the contacts were not all here in Victoria.
+[54:43.2 - 54:44.6]  So you had a long way to come.
+[54:44.6 - 54:50.4]  It makes it very easy to be able to give care to someone who is like that, like you were.
+[54:51.2 - 54:59.3]  You're jovial, jocular, willing to do things. Oftentimes on a neuro unit, it doesn't happen
+[54:59.3 - 55:05.7]  that way. People are angry or they're shouting out or they're striking out. And it isn't because
+[55:06.1 - 55:11.6]  they are doing that on purpose. It's because that's the only way that they have to communicate
+[55:11.6 - 55:16.2]  at that particular time because of their brain injury. You were trying really hard
+[55:16.8 - 55:21.5]  to put the pieces together of what had happened. And when we would have conversation,
+[55:21.5 - 55:27.2]  you would ask me questions about what happened. And so to the best of my knowledge, I would give
+[55:27.2 - 55:34.5]  you when you asked for information. And I think that's really important for caregivers not to
+[55:34.5 - 55:39.3]  come in with both guns blazing and say, you need to have all of this information and you need it
+[55:39.3 - 55:48.8]  now. In my practice, it's more important. What would you like to know? How much of this do you
+[55:48.8 - 55:53.6]  want to know? And so you give small pieces and what you tried to do with the small pieces was
+[55:53.6 - 55:58.4]  to put them together to come up with a bigger picture. What we have trouble with with head
+[55:58.4 - 56:03.6]  injuries at the outset though, is that we often have about eight weeks before we know how that's
+[56:03.6 - 56:08.8]  going to turn out. And it takes as long as two years to put the pieces all back together again.
+[56:08.8 - 56:13.4]  I think part of recovery from brain injury is being able to incorporate new learning.
+[56:14.5 - 56:19.3]  Because not everybody can. Some people have a brain injury and they're not able, they don't
+[56:19.3 - 56:25.0]  have the insight, they don't have the capability to be able to learn something new. You are able
+[56:25.0 - 56:31.2]  to incorporate new learning and your brain is still able to do that. And you've proven that
+[56:31.2 - 56:37.6]  in the last 10 years. I see you today and I didn't see you doing this 10 years ago, you know.
+[56:37.6 - 56:42.6]  In fact, as you know, for your own care, it took quite a while of rehabilitation before you could
+[56:42.6 - 56:47.6]  actually get up to independent functioning and then being able to go back and look towards
+[56:47.6 - 56:51.9]  meaningful employment and a lot of the other opportunities that then came. We sort of predict
+[56:51.9 - 56:57.6]  what we think is going to happen. People surprise us all the time. All the time. Thank goodness.
+[57:01.3 - 57:05.3]  It was a coincidence that I was the unknown. And after the accident, it was the accident that was the unknown.
+[57:12.3 - 57:19.8]  My father lived close to the airport in the village of Sydney, where we went to look for his fiance, Cheryl.
+[57:19.8 - 57:23.4]  Dave is the only person I can remember from back then.
+[57:23.4 - 57:32.4]  My mother and Cheryl were both able to pick up their own versions of memories of my father.
+[57:32.4 - 57:40.4]  That was extraordinary to experience, because it exactly fell into line with my initial goal of getting to know my father.
+[57:40.4 - 57:46.4]  We eventually went to the Army and Navy, which I did there and then with my father.
+[57:47.3 - 57:49.3]  What's your birthday?
+[57:49.3 - 57:51.3]  It was a dream, now it's the truth.
+[57:51.3 - 57:53.3]  Now it's the truth.
+[58:04.3 - 58:11.3]  David will soon return home to Amsterdam, this time with new memories and for the first time, a clear picture.
+[58:12.3 - 58:18.3]  I think there are definitely a lot of people who can draw strength from your life story.
+[58:18.3 - 58:24.3]  Yes, I can imagine that you show such a film to people when they are watching it.
+[58:24.3 - 58:28.3]  And that it can certainly help how you can possibly do it.
+[58:28.3 - 58:38.3]  With your passion, filming, yes, you have something, I think, no matter how bad it is. It's very special.
+[58:39.2 - 58:51.2]  When this film is finished, it seems to me a very positive, apotheosis, the cherry on the cake, as you call it.
+[58:51.2 - 58:53.2]  Then it's over.
+[58:59.2 - 59:05.2]  But on top of that, my mother still knew how to help me with one last question.
+[59:06.2 - 59:10.2]  How were the seconds I thought, now it's over?
+[59:10.2 - 59:22.2]  And in this research we came across a piece by Om Wim, in which he describes how his near-death experience was.
+[59:23.2 - 59:29.2]  The experience I'm going through is neither visual nor intellectual.
+[59:29.2 - 59:35.2]  It is not perceived as a sensual experience of another kind, but is entirely inner.
+[59:35.2 - 59:43.2]  I became aware of this when I was on the verge of starvation at the age of almost 30 in a Japanese war prison camp.
+[59:43.2 - 59:49.2]  My body was tormented by many diseases. My courage to live was almost exhausted.
+[59:50.1 - 59:58.1]  And then something happened in me that could be called a dream, were it not that I was in a consciously waking state.
+[59:58.1 - 60:06.1]  There was something that cannot be described in subjective terms as pleasant, nasty, nice, scary.
+[60:06.1 - 60:16.1]  Or it is the experience of a very great lucidity, a clarity for which all masks fall away and all false desires evaporate.
+[60:17.1 - 60:21.1]  It is the knowledge that the secrets will be revealed.
+[60:21.1 - 60:27.1]  Returning to the world of the ordinary daily experience, I understood that the misery,
+[60:27.1 - 60:31.1]  senseless as it seemed, would have meaning in my life.
+[60:31.1 - 60:35.1]  Namely, the meaning I would give to it.
+[60:46.1 - 61:15.1]  Translated by Releska
+[61:16.1 - 61:19.1]  Thank you for watching
+Complete transcription result saved to: /home/ubuntu/documentary_transcription_20260308_075311.json
+Plain text transcription saved to: /home/ubuntu/documentary_transcription_20260308_075311.txt
+[2J[H[3Jmanus-speech-to-text documentary.mp3
+Starting Speech-to-Text conversion...
+Audio file size (22.8MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 52 kbps
+Audio file size: 22.78 MB, duration: 3680.8 seconds
+Splitting into 5 chunks (each ~736.2 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: documentary.mp3, file size: 22.78 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .documentary_chunks_20260308_075034/chunk_000.mp3
+Chunk 1 completed (duration: 736.2s)
+Transcribing chunk 2/5: .documentary_chunks_20260308_075034/chunk_001.mp3
+Chunk 2 completed (duration: 736.1s)
+Transcribing chunk 3/5: .documentary_chunks_20260308_075034/chunk_002.mp3
+Chunk 3 completed (duration: 736.2s)
+Transcribing chunk 4/5: .documentary_chunks_20260308_075034/chunk_003.mp3
+Chunk 4 completed (duration: 736.1s)
+Transcribing chunk 5/5: .documentary_chunks_20260308_075034/chunk_004.mp3
+Chunk 5 completed (duration: 736.0s)
+
+Snippet of transcribed content:
+[56:37.6 - 56:42.6] In fact, as you know, for your own care, it took quite a while of rehabilitation before you could
+[56:42.6 - 56:47.6] actually get up to independent functioning and then being able to go back and look towards
+[56:47.6 - 56:51.9] meaningful employment and a lot of the other opportunities that then came. We sort of predict
+[56:51.9 - 56:57.6] what we think is going to happen. People surprise us all the time. All the time. Thank goodness.
+[57:01.3 - 57:05.3] It was a coincidence that I was the unknown. And after the accident, it was the accident that was the unknown.
+[57:12.3 - 57:19.8] My father lived close to the airport in the village of Sydney, where we went to look for his fiance, Cheryl.
+[57:19.8 - 57:23.4] Dave is the only person I can remember from back then.
+[57:23.4 - 57:32.4] My mother and Cheryl were both able to pick up their own versions of memories of my father.
+[57:32.4 - 57:40.4] That was extraordinary to experience, because it exactly fell into line with my initial goal of getting to know my father.
+[57:40.4 - 57:46.4] We eventually went to the Army and Navy, which I did there and then with my father.
+[57:47.3 - 57:49.3] What's your birthday?
+[57:49.3 - 57:51.3] It was a dream, now it's the truth.
+[57:51.3 - 57:53.3] Now it's the truth.
+[58:04.3 - 58:11.3] David will soon return home to Amsterdam, this time with new memories and for the first time, a clear picture.
+[58:12.3 - 58:18.3] I think there are definitely a lot of people who can draw strength from your life story.
+[58:18.3 - 58:24.3] Yes, I can imagine that you show such a film to people when they are watching it.
+[58:24.3 - 58:28.3] And that it can certainly help how you can possibly do it.
+[58:28.3 - 58:38.3] With your passion, filming, yes, you have something, I think, no matter how bad it is. It's very special.
+[58:39.2 - 58:51.2] When this film is finished, it seems to me a very positive, apotheosis, the cherry on the cake, as you call it.
+[58:51.2 - 58:53.2] Then it's over.
+[58:59.2 - 59:05.2] But on top of that, my mother still knew how to help me with one last question.
+[59:06.2 - 59:10.2] How were the seconds I thought, now it's over?
+[59:10.2 - 59:22.2] And in this research we came across a piece by Om Wim, in which he describes how his near-death experience was.
+[59:23.2 - 59:29.2] The experience I'm going through is neither visual nor intellectual.
+[59:29.2 - 59:35.2] It is not perceived as a sensual experience of another kind, but is entirely inner.
+[59:35.2 - 59:43.2] I became aware of this when I was on the verge of starvation at the age of almost 30 in a Japanese war prison camp.
+[59:43.2 - 59:49.2] My body was tormented by many diseases. My courage to live was almost exhausted.
+[59:50.1 - 59:58.1] And then something happened in me that could be called a dream, were it not that I was in a consciously waking state.
+[59:58.1 - 60:06.1] There was something that cannot be described in subjective terms as pleasant, nasty, nice, scary.
+[60:06.1 - 60:16.1] Or it is the experience of a very great lucidity, a clarity for which all masks fall away and all false desires evaporate.
+[60:17.1 - 60:21.1] It is the knowledge that the secrets will be revealed.
+[60:21.1 - 60:27.1] Returning to the world of the ordinary daily experience, I understood that the misery,
+[60:27.1 - 60:31.1] senseless as it seemed, would have meaning in my life.
+[60:31.1 - 60:35.1] Namely, the meaning I would give to it.
+[60:46.1 - 61:15.1] Translated by Releska
+[61:16.1 - 61:19.1] Thank you for watching
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/documentary_transcription_20260308_075311.json
+Plain text transcription saved to /home/ubuntu/documentary_transcription_20260308_075311.txt
